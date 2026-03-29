@@ -2,7 +2,7 @@
 
 ### Cybersecurity Student | Mountain Top University
 
-I'm an undergraduate Cybersecurity student passionate about network security, threat analysis, and building a safer digital world. Currently upskilling through industry certifications while maintaining a 5.0 CGPA.
+I am an undergraduate Cybersecurity student passionate about network security, threat analysis, and building a safer digital world. Driven by a genuine commitment to protecting people and organizations, I bring strong communication, leadership, and attention to detail while actively building my technical skills. I am eager to keep learning and am currently upskilling through industry certifications, maintaining a 5.0 CGPA
 
 ## 🎓 Education
 **B.Sc. Cybersecurity** — Mountain Top University *(2024-2028)*
