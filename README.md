@@ -21,8 +21,8 @@ I'm an undergraduate Cybersecurity student passionate about network security, th
 - 🎓 **Class Representative** — Department of Cybersecurity, MTU *(2024 – Present)*
 
 ## 📫 Contact
-- Gmail: (mailto:oyindamoladekeye@gmail.com)
-- Linkedin : https://www.linkedin.com/in/aishat-adekeye-b4986124b/
+- [Email](mailto:oyindamoladekeye@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/aishat-adekeye-b4986124b/)
 
 ---
 
