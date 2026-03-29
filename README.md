@@ -10,6 +10,7 @@ I'm an undergraduate Cybersecurity student passionate about network security, th
 - Relevant Coursework: Network Security, Introduction to Cybersecurity, Computer Networks, Operating Systems
 
 ## 📜 Certifications
+|---|---|---|
 | Introduction to Cybersecurity | Cisco NetAcad | ✅ Completed |
 | Networking Basics | Cisco NetAcad | 🔄 In Progress |
 | Google Cybersecurity Professional Certificate | Coursera | 🔄 In Progress (2/8) |
@@ -21,4 +22,7 @@ I'm an undergraduate Cybersecurity student passionate about network security, th
 ## 📫 Contact
 - Gmail: (mailto:oyindamoladekeye@gmail.com)
 - Linkedin : https://www.linkedin.com/in/aishat-adekeye-b4986124b/
+
+---
+
 *"Still learning. Always building."*
